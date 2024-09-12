@@ -61,12 +61,30 @@ int main() {
 //    cout << t;
 
     //P8
-    float diameter;
-    cin >> diameter;
-    float area = 4*3.14*pow(diameter/2.0, 2.0);
-    cout << area;
+//    float diameter;
+//    cin >> diameter;
+//    float area = 4*3.14*pow(diameter/2.0, 2.0);
+//    cout << area;
+
+    //P12
+    // int students = 241;
+    // int groups = 11;
+    // int firstG = students / (groups-1);
+    // int lastG = students - (groups-1)*firstG;
+    //
+    // cout << firstG << " " << lastG << endl;
+
+
+    //P14
+    //char a = 'A';
+    //P15
+    // float x = 17;
+    // float y = 1;
+    // float z = (x+++x)/(++y*++y);
+    // cout << z;
 
     return 0;
+
 }
 
 
